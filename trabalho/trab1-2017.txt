@@ -31,7 +31,7 @@ Resposta: cd ~
 diga quantos diretorios existem cujo nome começa com "pasta"?
 Resposta1 (comando linux usado): find . -name pasta*
 
-Resposta2 (numero de diretorios encontrados) : 5 (contando com o subdiretorio pasta31)
+Resposta2 (numero de diretorios encontrados) : 4 (contando com o subdiretorio pasta31)
 
 
 7 - Qual o comando linux para: 
